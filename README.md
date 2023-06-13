@@ -33,15 +33,15 @@ GIF created with Kap
 Below are a list of my 3 favorite applications, along with some features that make
 them my favorite:
 
-- [app1 name]:
-    - [feature 1]
+- Gmail:
+    - Being able to switch between multiple accounts by swiping upwards or downwards on the profile picture/icon
     - [feature 2]
-- [app2 name]:
-    - [feature 1]
-    - [feature 2]
-- [app3 name]:
-    - [feature 1]
-    - [feature 2]
+- Messages:
+    - Being able to edit messages for a period of time after they were sent
+    - The use of t
+- Netflix:
+    - Auto playing of the next episode of the tv show being watched
+    - Being able to download episodes or movies for moments when you are offline
     
 Potential App Idea Paragraph
 
