@@ -30,6 +30,21 @@ GIF created with Kap
 
 ## App Brainstorming (Step 4)
 
+Below are a list of my 3 favorite applications, along with some features that make
+them my favorite:
+
+- [app1 name]:
+    - [feature 1]
+    - [feature 2]
+- [app2 name]:
+    - [feature 1]
+    - [feature 2]
+- [app3 name]:
+    - [feature 1]
+    - [feature 2]
+    
+Potential App Idea Paragraph
+
 ## Notes
 
 Describe any challenges encountered while building the app.
