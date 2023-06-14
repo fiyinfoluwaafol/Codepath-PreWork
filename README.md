@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/cnCjZqL' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap  
@@ -35,23 +35,36 @@ them my favorite:
 
 - Gmail:
     - Being able to switch between multiple accounts by swiping upwards or downwards on the profile picture/icon
-    - [feature 2]
+    - Being able to schedule send emails, rather than having to be there to send out
+    the email
 - Messages:
     - Being able to edit messages for a period of time after they were sent
-    - The use of t
+    - Being able to pin your favorite/important contacts at the top of yor screen
 - Netflix:
     - Auto playing of the next episode of the tv show being watched
     - Being able to download episodes or movies for moments when you are offline
     
 Potential App Idea Paragraph
+This app would essentially acts as idea journal, it would allow you to keep track
+of any ideas you might come up with, by creating a new document for each idea. It
+would have the capabilities of allowing the user to type things out, as well have
+drawings to accompany the text if the user desires to. Asides from taking notes of
+the user's ideas, the app would have a reminder feature that reminds the user of
+their ideas weekly (or whatever frequency the user decides), this is so that the
+user is encouraged to intentionally attempt to develop more about the idea.
+Another potential feature could be having a community feature that allows you the
+user to connect with others with a similar idea/innovation, such that they could
+potentially partner up to bring whatsoever the idea is into reality.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Barely encountered any difficulty developing the app, but after submission of
+pre work, I intend to still play around with it and explore all the things I can
+do with it.
 
 ## License
 
-    Copyright 2023 [name of copyright owner]
+    Copyright [year] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
