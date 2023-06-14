@@ -44,7 +44,8 @@ them my favorite:
     - Auto playing of the next episode of the tv show being watched
     - Being able to download episodes or movies for moments when you are offline
     
-Potential App Idea Paragraph
+Potential App Idea Paragraph - **Idea Journal & Community**
+
 This app would essentially acts as idea journal, it would allow you to keep track
 of any ideas you might come up with, by creating a new document for each idea. It
 would have the capabilities of allowing the user to type things out, as well have
