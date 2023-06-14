@@ -20,6 +20,7 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://imgur.com/a/cnCjZqL' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![iOS_PreWork_Capture](https://github.com/fiyinfoluwaafol/Codepath-PreWork/assets/112602670/5137f103-c846-4dd6-a6ed-e98e82acb26a)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap  
